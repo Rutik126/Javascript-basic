@@ -1,0 +1,7 @@
+// stack (Primitiive)  , Heap (Non-primitive)
+let name2 = "Rutik"
+// let name1 = name;
+name1 = "Akshay"
+
+console.log(name2);
+console.log(name1);
