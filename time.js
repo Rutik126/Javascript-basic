@@ -7,3 +7,7 @@ console.log(NewDate.toDateString());
 let Timestamp = Date.now()
 console.log(Timestamp);
 console.log(NewDate.getTime());
+
+NewDate.toLocaleString('default',{
+    weekday:"long"
+})
